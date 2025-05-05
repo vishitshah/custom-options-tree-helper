@@ -1,16 +1,16 @@
 {
-    "landingPage": "/wp-admin/themes.php?page=edit-custom-option-tree",
-    "login": true,
-    "steps": [
-      {
-        "step": "installPlugin",
-        "pluginData": {
-          "resource": "wordpress.org",
-          "slug": "custom-options-tree"
-        },
-        "options": {
-          "activate": true
-        }
+  "landingPage": "/wp-admin/themes.php?page=edit-custom-option-tree",
+  "login": true,
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/vishitshah/custom-options-tree-helper/main/plugins/custom-options-tree.zip"
+      },
+      "options": {
+        "activate": true
       }
-    ]
+    }
+  ]
 }
