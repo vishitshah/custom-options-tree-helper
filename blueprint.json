@@ -1,0 +1,16 @@
+{
+    "landingPage": "/wp-admin/themes.php?page=edit-custom-option-tree",
+    "login": true,
+    "steps": [
+      {
+        "step": "installPlugin",
+        "pluginData": {
+          "resource": "wordpress.org",
+          "slug": "custom-options-tree"
+        },
+        "options": {
+          "activate": true
+        }
+      }
+    ]
+}
