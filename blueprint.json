@@ -6,7 +6,7 @@
       "step": "installPlugin",
       "pluginData": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/vishitshah/custom-options-tree-helper/main/plugins/custom-options-tree.zip"
+        "url": "https://downloads.wordpress.org/plugin/custom-options-tree.latest-stable.zip"
       },
       "options": {
         "activate": true
